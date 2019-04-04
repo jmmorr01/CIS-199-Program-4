@@ -1,0 +1,9 @@
+C:\Users\backs_000\Desktop\U of L Work\CIS 199\Labs\Program4\Program4\bin\Debug\Program4.exe.config
+C:\Users\backs_000\Desktop\U of L Work\CIS 199\Labs\Program4\Program4\bin\Debug\Program4.exe
+C:\Users\backs_000\Desktop\U of L Work\CIS 199\Labs\Program4\Program4\bin\Debug\Program4.pdb
+C:\Users\backs_000\Desktop\U of L Work\CIS 199\Labs\Program4\Program4\obj\Debug\Program4.csprojResolveAssemblyReference.cache
+C:\Users\backs_000\Desktop\U of L Work\CIS 199\Labs\Program4\Program4\obj\Debug\Program4.Form1.resources
+C:\Users\backs_000\Desktop\U of L Work\CIS 199\Labs\Program4\Program4\obj\Debug\Program4.Properties.Resources.resources
+C:\Users\backs_000\Desktop\U of L Work\CIS 199\Labs\Program4\Program4\obj\Debug\Program4.csproj.GenerateResource.Cache
+C:\Users\backs_000\Desktop\U of L Work\CIS 199\Labs\Program4\Program4\obj\Debug\Program4.exe
+C:\Users\backs_000\Desktop\U of L Work\CIS 199\Labs\Program4\Program4\obj\Debug\Program4.pdb
